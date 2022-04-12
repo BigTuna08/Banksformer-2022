@@ -1,0 +1,15 @@
+.DS_Store
+.ipynb_checkpoints/
+
+__pycache__/
+**/__pycache__/
+*$py.class
+
+**/generated_data/
+**/stored_data/
+
+generated_data/
+stored_data/
+checkpoints/
+raw_czech/
+training_history/
